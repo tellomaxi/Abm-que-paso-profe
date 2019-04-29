@@ -1,0 +1,248 @@
+# depslib dependency file v1.0
+1539044032 source:d:\jaworsky.ariel.1g\parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1539367431 source:c:\users\xxjotaa\desktop\programacion_1_laboratorio_1\parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"validaciones.h"
+	"alquileres.h"
+
+1539225569 source:c:\users\xxjotaa\desktop\programacion_1_laboratorio_1\parcial1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	"clientes.h"
+
+1539107118 c:\users\xxjotaa\desktop\programacion_1_laboratorio_1\parcial1\validaciones.h
+
+1539367200 source:c:\users\xxjotaa\desktop\programacion_1_laboratorio_1\parcial1\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	"clientes.h"
+	"alquileres.h"
+
+1539226300 c:\users\xxjotaa\desktop\programacion_1_laboratorio_1\parcial1\clientes.h
+
+1539226257 source:c:\users\xxjotaa\desktop\programacion_1_laboratorio_1\parcial1\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	"clientes.h"
+	"alquileres.h"
+
+1539226256 c:\users\xxjotaa\desktop\programacion_1_laboratorio_1\parcial1\alquileres.h
+
+1539226257 source:c:\users\xxjotaa\desktop\programacion_1_laboratorio_1\parcial1abm\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	"clientes.h"
+	"alquileres.h"
+
+1539107118 c:\users\xxjotaa\desktop\programacion_1_laboratorio_1\parcial1abm\validaciones.h
+
+1539226300 c:\users\xxjotaa\desktop\programacion_1_laboratorio_1\parcial1abm\clientes.h
+
+1539226256 c:\users\xxjotaa\desktop\programacion_1_laboratorio_1\parcial1abm\alquileres.h
+
+1539367200 source:c:\users\xxjotaa\desktop\programacion_1_laboratorio_1\parcial1abm\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	"clientes.h"
+	"alquileres.h"
+
+1539367431 source:c:\users\xxjotaa\desktop\programacion_1_laboratorio_1\parcial1abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"validaciones.h"
+	"alquileres.h"
+
+1539225569 source:c:\users\xxjotaa\desktop\programacion_1_laboratorio_1\parcial1abm\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	"clientes.h"
+
+1539374483 source:c:\users\xxjotaa\desktop\programacion_1_laboratorio_1\parcial1abm - org\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	"clientes.h"
+	"alquileres.h"
+
+1539107118 c:\users\xxjotaa\desktop\programacion_1_laboratorio_1\parcial1abm - org\validaciones.h
+
+1539226300 c:\users\xxjotaa\desktop\programacion_1_laboratorio_1\parcial1abm - org\clientes.h
+
+1539374799 c:\users\xxjotaa\desktop\programacion_1_laboratorio_1\parcial1abm - org\alquileres.h
+
+1539373968 source:c:\users\xxjotaa\desktop\programacion_1_laboratorio_1\parcial1abm - org\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	"clientes.h"
+	"alquileres.h"
+
+1539374470 source:c:\users\xxjotaa\desktop\programacion_1_laboratorio_1\parcial1abm - org\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"validaciones.h"
+	"alquileres.h"
+
+1539225569 source:c:\users\xxjotaa\desktop\programacion_1_laboratorio_1\parcial1abm - org\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	"clientes.h"
+
+1539391440 source:c:\users\alumno\desktop\programacion_1_laboratorio_1\parcial1abm - org\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	"clientes.h"
+	"alquileres.h"
+
+1539381609 c:\users\alumno\desktop\programacion_1_laboratorio_1\parcial1abm - org\validaciones.h
+
+1539381609 c:\users\alumno\desktop\programacion_1_laboratorio_1\parcial1abm - org\clientes.h
+
+1539381609 c:\users\alumno\desktop\programacion_1_laboratorio_1\parcial1abm - org\alquileres.h
+
+1539392693 source:c:\users\alumno\desktop\programacion_1_laboratorio_1\parcial1abm - org\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"clientes.h"
+	"alquileres.h"
+
+1539392628 source:c:\users\alumno\desktop\programacion_1_laboratorio_1\parcial1abm - org\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"validaciones.h"
+	"alquileres.h"
+
+1539381609 source:c:\users\alumno\desktop\programacion_1_laboratorio_1\parcial1abm - org\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	"clientes.h"
+
+1539970037 source:c:\users\xxjotaa\desktop\asd\programacion_1_laboratorio_1\parcial 1 abm\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	"clientes.h"
+	"alquileres.h"
+
+1539970037 c:\users\xxjotaa\desktop\asd\programacion_1_laboratorio_1\parcial 1 abm\validaciones.h
+
+1539970037 c:\users\xxjotaa\desktop\asd\programacion_1_laboratorio_1\parcial 1 abm\clientes.h
+
+1539970037 c:\users\xxjotaa\desktop\asd\programacion_1_laboratorio_1\parcial 1 abm\alquileres.h
+
+1539970037 source:c:\users\xxjotaa\desktop\asd\programacion_1_laboratorio_1\parcial 1 abm\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"clientes.h"
+	"alquileres.h"
+
+1539974382 source:c:\users\xxjotaa\desktop\asd\programacion_1_laboratorio_1\parcial 1 abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"validaciones.h"
+	"alquileres.h"
+
+1539970037 source:c:\users\xxjotaa\desktop\asd\programacion_1_laboratorio_1\parcial 1 abm\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	"clientes.h"
+
+1541260683 source:c:\users\xxjotaalap\desktop\prueba\programacion_1_laboratorio_1\parcial 1 abm\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	"clientes.h"
+	"alquileres.h"
+
+1541260684 c:\users\xxjotaalap\desktop\prueba\programacion_1_laboratorio_1\parcial 1 abm\validaciones.h
+
+1541260683 c:\users\xxjotaalap\desktop\prueba\programacion_1_laboratorio_1\parcial 1 abm\clientes.h
+
+1541260683 c:\users\xxjotaalap\desktop\prueba\programacion_1_laboratorio_1\parcial 1 abm\alquileres.h
+
+1541273430 source:c:\users\xxjotaalap\desktop\prueba\programacion_1_laboratorio_1\parcial 1 abm\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"clientes.h"
+	"alquileres.h"
+
+1541280939 source:c:\users\xxjotaalap\desktop\prueba\programacion_1_laboratorio_1\parcial 1 abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"validaciones.h"
+	"alquileres.h"
+
+1541260684 source:c:\users\xxjotaalap\desktop\prueba\programacion_1_laboratorio_1\parcial 1 abm\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	"clientes.h"
+
+1541260683 source:c:\users\alan_\desktop\parcial 1 abm\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	"clientes.h"
+	"alquileres.h"
+
+1541260684 c:\users\alan_\desktop\parcial 1 abm\validaciones.h
+
+1541260683 c:\users\alan_\desktop\parcial 1 abm\clientes.h
+
+1541260683 c:\users\alan_\desktop\parcial 1 abm\alquileres.h
+
+1541273430 source:c:\users\alan_\desktop\parcial 1 abm\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"clientes.h"
+	"alquileres.h"
+
+1541280939 source:c:\users\alan_\desktop\parcial 1 abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"validaciones.h"
+	"alquileres.h"
+
+1541260684 source:c:\users\alan_\desktop\parcial 1 abm\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	"clientes.h"
+
